@@ -6,10 +6,11 @@ Mam nadzieję, że zostaniesz tu na dłużej 😉
 - PikaBot (Node.js Discord.js) - Link do dodania już nie długo.
 
 # Archiwum - moje dawne projekty
-- X Bot (Node.js Discord.js)
 - RoseCraft (Serwer Minecraft)
+- X Bot (Node.js Discord.js)
 - G&T (Serwer Discord)
 - TechLab (Serwer Discord)
+- BrowserOS (HTML + CSS + JS)
 - SandOS (Batch)
 
 # Kontakt
