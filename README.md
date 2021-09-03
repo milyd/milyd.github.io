@@ -10,7 +10,7 @@ Mam na imię Dominik, pochodzę z woj. mazowieckiego. Interesuję się informaty
 
 # Archiwum - moje dawne lub/i porzucone projekty
 - RoseCraft (Serwer Minecraft)
-- X Bot (Node.js Discord.js)
+- X Bot (Node.js Discord.js) - Repozytorium GitHub: https://github.com/milyd/xbot
 - G&T (Serwer Discord)
 - TechLab (Serwer Discord)
 - BrowserOS (HTML + CSS + JS)
