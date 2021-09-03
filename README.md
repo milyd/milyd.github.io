@@ -1,6 +1,9 @@
 # Witaj na mojej stronie!
 Mam nadzieję, że zostaniesz tu na dłużej 😉
 
+# Coś o mnie
+Mam na imię Dominik, pochodzę z woj. mazowieckiego. Interesuję się informatyką oraz programowaniem. 
+
 # Moje aktualne projekty
 - ?????? (Node.js Electron)
 - PikaBot (Node.js Discord.js) - Link do dodania już nie długo.
