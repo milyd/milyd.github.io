@@ -1,4 +1,5 @@
-
+# Witaj na mojej stronie!
+Mam nadzieję, że zostaniesz tu na dłużej 😉
 
 # Moje aktualne projekty
 - ?????? (Node.js Electron)
