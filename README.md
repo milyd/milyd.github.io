@@ -6,5 +6,5 @@ Witaj na mojej stronie! Mam nadzieję, że zostaniesz tu na dłużej 😉
 - PikaBot (Node.js Discord.js)
 
 # Kontakt
-Email: milydominik@outlook.com/yeaq@linux.pl
-Discord: SleepyPikachu#0121 (678218230883549216)
+- Email: milydominik@outlook.com/yeaq@linux.pl
+- Discord: SleepyPikachu#0121 (678218230883549216)
