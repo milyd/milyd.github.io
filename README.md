@@ -5,7 +5,7 @@ Mam nadzieję, że zostaniesz tu na dłużej 😉
 - ?????? (Node.js Electron)
 - PikaBot (Node.js Discord.js) - Link do dodania już nie długo.
 
-# Archiwum - moje dawne projekty
+# Archiwum - moje dawne lub/i porzucone projekty
 - RoseCraft (Serwer Minecraft)
 - X Bot (Node.js Discord.js)
 - G&T (Serwer Discord)
